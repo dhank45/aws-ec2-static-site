@@ -12,4 +12,4 @@ http://3.108.228.2
 - Git
 - HTML
 
- Project Repository URL: https://github.com/dhank45/aws-ec2-static-site
+ project URL: https://github.com/dhank45/aws-ec2-static-site
