@@ -12,7 +12,4 @@ http://3.108.228.2
 - Git
 - HTML
 
-## 📁 Files in this Repo
-- index.html – Website file
-- setup-ec2.md – EC2 setup steps
-- README.md – Project description and URL
+ Project Repository URL: https://github.com/dhank45/aws-ec2-static-site
